@@ -1,1 +1,2 @@
 # Power-BI-Assignment2-DAX
+A Power BI report built on e-commerce order data, customer purchase records and tech layoff data. It covers data cleaning in Power Query, three visuals (orders by country, orders over time, and top layoff locations), and DAX for a calculated column and measures such as totals, row counts, missing values and min/max. The goal is to practice the full workflow from loading raw files to presenting insights in a dashboard.
